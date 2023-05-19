@@ -1,4 +1,4 @@
-import PieChart from './PieChart';
+import PieChart from './Piechart';
 import moment from 'moment';
 import React from 'react';
 import { dailyAchievement } from '~/mocks';
